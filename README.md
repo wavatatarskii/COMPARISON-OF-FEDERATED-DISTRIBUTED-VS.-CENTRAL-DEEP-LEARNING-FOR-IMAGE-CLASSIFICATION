@@ -8,8 +8,8 @@ by Islamiia Gilmanova, Oleg Laptev, Shubhesh Swain, Ehtasham Muhammad UI Haq Jan
 
 ![Predictions comparison](img/predscomp.png "Comparison")
 
-![Federated curves](img/curves_fed.tiff "Federated")
+![Federated curves](img/curves_fed.png "Federated")
 
-![Centralized curves](img/curves.tiff "Centralized")
+![Centralized curves](img/curves.png "Centralized")
 
 [1]. Puneet Bansal.Intel Image Multiclass Scenes Classification Dataset.©Original Authors/ Intel, Gurugram,Haryana, India, 2018.https://www.kaggle.com/puneet6060/intel-image-classification.
