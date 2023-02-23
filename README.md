@@ -4,5 +4,12 @@ In this paper, we are describing the Federated Learning approach and compare it 
 by Islamiia Gilmanova, Oleg Laptev, Shubhesh Swain, Ehtasham Muhammad UI Haq Janjua, MSc students of RCSE, TU Ilmenau, Thuringia, Germany
 
 
+![Federation distribution](img/Distr.png "Distribution")
+
+![Predictions comparison](img/predscomp.png "Comparison")
+
+![Federated curves](img/curves_fed.tiff "Federated")
+
+![Centralized curves](img/curves.tiff "Centralized")
 
 [1]. Puneet Bansal.Intel Image Multiclass Scenes Classification Dataset.©Original Authors/ Intel, Gurugram,Haryana, India, 2018.https://www.kaggle.com/puneet6060/intel-image-classification.
